@@ -1,0 +1,14 @@
+# ===== 运行时自动生成的隐私/数据文件（千万不要上传 Gitee）=====
+accounts.json
+rank.json
+market.json
+guilds.json
+*.log
+srv.log
+server.log
+
+# ===== 编辑器/系统垃圾 =====
+.cloudstudio
+.DS_Store
+Thumbs.db
+node_modules/

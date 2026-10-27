@@ -1,0 +1,8 @@
+{
+  "name": "guaji-legend-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "挂机传奇 · 在线版（含全网排行榜）",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {}
+}
